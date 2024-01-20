@@ -1,14 +1,14 @@
 # Alonso Hernández Campos
 <!-- <h1 align="center">Alonso Hernández Campos</h1> -->
-*Mucho gusto como pueden ver en el titulo mi nombre es Alonso Hernández Campos y tengo 21 años de edad, actualmente me encuntro finalizando mi carrera de Ingenieria en Desarrollo de Software en la Universidad Tecmilenio*
+*Nice to meet you, as you can see in the title, my name is Alonso Hernández Campos and I am 21 years old. I am currently finishing my degree in Software Development Engineering at the Tecmilenio University.*
 
 ---
 
-**Grados de escolaridad**
+**Academic Background**
 
-*A los 21 años de vida ya he cursado lo basico que se requiere para entrar la univerdidad como debe de ser la primaria, secundaria y preparatoria.*
+*At 21 years of age, I have already completed the basics required to enter university, as primary, secondary and high school should be.*
 
-*Primaria y secundaria las curse en una escuela llamada Salesiano, la preparatoria la hice en la que es mi universidad actualmente que es Tecmilenio, ademas de que cuento con clases de ingles extra y varios certificados que acreditan mis conocimientos.*
+*I took primary and secondary school at a school called Salesiano, I did high school at what is my current university, which is Tecmilenio, in addition to having extra English classes and several certificates that accredit my knowledge.*
 
 ---
 
