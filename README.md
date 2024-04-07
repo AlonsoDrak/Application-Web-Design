@@ -70,10 +70,12 @@
 ---
 
 1. First you got to make pull the repository to your local by doing a git clone and navigate to the project so you can run it
-2. Next step is to open the project in Visual Studio Code and open a terminal
-3. Once in the terminal you have to write: php artisan serve, this will run the program.
-4. Once the program is running in your preference browser ypu have to enter this direction: http://127.0.0.1:8000/books
-5. And that´s it you have the porgam running you can see, create, delete and update all the books you want.
+2. Once you have the project and assuming you also have XAMPP installed you hace to add the prpject in this direction: \xampp\htdocs
+3. Onceyou have the porject in the correct direction you have to poen XAMPP and run apache and mysql
+4. Now that you have apache and mysql running you have to open the code in visual studio code and get a terminal, once in the terminal you have to put this instruction: php artisan migrate this will create the database in mysql.
+5. Once in the terminal and with the database created you have to write: php artisan serve, this will run the program.
+6. Once the program is running in your preference browser ypu have to enter this direction: http://127.0.0.1:8000/books
+7. And that´s it you have the porgam running you can see, create, delete and update all the books you want.
 
 
 
