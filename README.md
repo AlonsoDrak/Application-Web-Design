@@ -61,3 +61,9 @@
 * My gmail: alonso.hernancamp@gmail.com 
 
 >My favorite phrase: "Don´t give up"
+
+---
+---
+
+These is the guide in order to use the application: Evidencia 2 Web
+
