@@ -65,5 +65,16 @@
 ---
 ---
 
-These is the guide in order to use the application: Evidencia 2 Web
+# These is the guide in order to use the application: Evidencia 2 Web
+
+---
+
+1. First you got to make pull the repository to your local by doing a git clone and navigate to the project so you can run it
+2. Next step is to open the project in Visual Studio Code and open a terminal
+3. Once in the terminal you have to write: php artisan serve, this will run the program.
+4. Once the program is running in your preference browser ypu have to enter this direction: http://127.0.0.1:8000/books
+5. And that´s it you have the porgam running you can see, create, delete and update all the books you want.
+
+
+
 
